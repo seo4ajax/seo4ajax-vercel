@@ -19,3 +19,5 @@ SEO4Ajax can be integrated on vercel by adding a new rule in the `"rewrites"` pr
   ]
 }
 ```
+
+Warning: This configuration works for all application paths except the home page.
